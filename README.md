@@ -1,10 +1,11 @@
 # Hi there, I'm Anushka Chaudhary
-## B.tech, Computer Science Engineering (AI & ML) 
+B.tech, Computer Science Engineering (AI & ML) 
 VIT Bhopal , First Year Student
 Graduation: 2029
 ## About Me
 I have strong interest in technology and innovation. My aim is to build a successful career in the field of Artificial Intelligence and Machine Learning, where I can apply my skills to solve real-world problems. I am particularly interested in areas such as machine learning, data analysis, and developing intelligent systems. I enjoy learning new technologies and continuously improving my technical and problem-solving skills. I have a keen interest in Python programming. Along with academics, I am also focused on building projects and gaining practical experience to strengthen my knowledge.
-Connect with Me:
+
+##Connect with Me:
 LinkedIn- https://www.linkedin.com/in/anushka-chaudhary-8baa78373/
 
 <!--
